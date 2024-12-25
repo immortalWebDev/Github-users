@@ -127,3 +127,25 @@ body {
   background: linear-gradient(135deg, #ffdd57, #ff6347);
   transform: scale(1.01);
 }
+
+
+footer {
+  background: linear-gradient(55deg, #1a2a6cb9, #b21f1f81, #dbb05236);
+  color: black;
+  text-align: center;
+  padding: 2px;
+  border-top: 2px solid transparent;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: tan;
+}
